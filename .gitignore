@@ -254,3 +254,7 @@ paket-files/
 # Client libs 
 **/wwwroot/libs/
 
+#Angular
+.angular/
+[Dd]ist/
+
